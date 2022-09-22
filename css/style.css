@@ -1,0 +1,13 @@
+header{
+    background-color: red;    
+}
+
+header h1{
+    display: inline;
+}
+
+.headerButton{
+    display: inline-flex;
+    justify-content: flex-end;
+    background-color: blue;
+}
